@@ -1,0 +1,19 @@
+{
+  "input_features": 1,
+  "input_annotation_name": [
+    "surface_form"
+  ],
+  "input_embeddings_path": [],
+  "input_clear_text": [
+    true
+  ],
+  "output_features": 1,
+  "output_annotation_name": [
+    "wn30_key"
+  ],
+  "output_translations": 0,
+  "output_translation_name": [],
+  "output_translation_features": 0,
+  "output_translation_annotation_name": [],
+  "output_translation_clear_text": false
+}

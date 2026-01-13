@@ -2,5 +2,3 @@ venv*
 .venv/*
 *__pycache__/*
 venv39/*
-data/wsd_model/model_weights_wsd0_camembert_base
-*.gitattributes*
